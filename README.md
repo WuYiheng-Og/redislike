@@ -27,9 +27,9 @@
    - key: (String) 浏览信息id
    - value: (Integer) 点赞数量
 
- ![点赞信息表](C:/Users/12908/AppData/Roaming/Typora/typora-user-images/image-20220928084651909.png)
+ ![点赞信息表](http://42.193.105.222:9090/index.php/s/E3akb6Kd7p9qQc8/preview)
 
-![点赞数量表](C:/Users/12908/AppData/Roaming/Typora/typora-user-images/image-20220928084751400.png)
+![点赞数量表](http://42.193.105.222:9090/index.php/s/c8xEnqGYK2kQHga/preview)
 
 ### 1.2 点赞
 
